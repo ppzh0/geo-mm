@@ -1,0 +1,9 @@
+.ob {
+    font-style: oblique;
+}
+
+#heading {
+    font-weight: bold;
+    font-style: italic;
+    background-color: rgb(190, 169, 169);
+}
